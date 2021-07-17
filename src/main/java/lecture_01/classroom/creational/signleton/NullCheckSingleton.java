@@ -1,4 +1,4 @@
-package lecture_03.classroom.creational.signleton;
+package lecture_01.classroom.creational.signleton;
 
 public class NullCheckSingleton {
 
