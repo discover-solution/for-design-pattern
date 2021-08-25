@@ -1,0 +1,6 @@
+Type of design pattern
+
+Docker Life cycle
+Spring Security
+O2 Auth in springboot
+in which container do the deployment
