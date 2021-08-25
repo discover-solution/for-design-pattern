@@ -20,7 +20,7 @@ public class SerializableSingleton implements Serializable{
         return singleton;
     }
 
-    Object readResolve(){
+    private Object readResolve(){
         return getInstance();
     }
 
